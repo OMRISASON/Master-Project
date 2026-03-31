@@ -1,0 +1,10 @@
+Here is a list of predefined math skills:
+- Addition
+- Subtraction
+- Multiplication
+- Division
+- Understanding Fractions
+- Adding Fractions
+- Solving Equations
+- Comparing Quantities
+- Word Problem Solving

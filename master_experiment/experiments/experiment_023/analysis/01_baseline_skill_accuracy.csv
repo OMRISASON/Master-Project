@@ -1,0 +1,22 @@
+grade,model,prompt,skill,accuracy
+4,claude-sonnet-4-5-20250929,combined,Measurement & Data,0.9230769230769231
+4,claude-sonnet-4-5-20250929,combined,Number & Operations in Base Ten,0.84
+4,claude-sonnet-4-5-20250929,combined,Number & Operations—Fractions,1.0
+4,claude-sonnet-4-5-20250929,combined,Operations & Algebraic Thinking,0.8333333333333334
+4,claude-sonnet-4-5-20250929,few_shot,Measurement & Data,0.9230769230769231
+4,claude-sonnet-4-5-20250929,few_shot,Number & Operations in Base Ten,0.84
+4,claude-sonnet-4-5-20250929,few_shot,Number & Operations—Fractions,1.0
+4,claude-sonnet-4-5-20250929,few_shot,Operations & Algebraic Thinking,0.7916666666666666
+4,claude-sonnet-4-5-20250929,rule_based,Measurement & Data,0.9230769230769231
+4,claude-sonnet-4-5-20250929,rule_based,Number & Operations in Base Ten,0.84
+4,claude-sonnet-4-5-20250929,rule_based,Number & Operations—Fractions,1.0
+4,claude-sonnet-4-5-20250929,rule_based,Operations & Algebraic Thinking,0.8333333333333334
+5,claude-sonnet-4-5-20250929,combined,Number & Operations in Base Ten,0.9696969696969697
+5,claude-sonnet-4-5-20250929,combined,Number & Operations—Fractions,0.7575757575757576
+5,claude-sonnet-4-5-20250929,combined,Operations & Algebraic Thinking,0.8484848484848485
+5,claude-sonnet-4-5-20250929,few_shot,Number & Operations in Base Ten,0.9696969696969697
+5,claude-sonnet-4-5-20250929,few_shot,Number & Operations—Fractions,0.7575757575757576
+5,claude-sonnet-4-5-20250929,few_shot,Operations & Algebraic Thinking,0.8484848484848485
+5,claude-sonnet-4-5-20250929,rule_based,Number & Operations in Base Ten,0.9696969696969697
+5,claude-sonnet-4-5-20250929,rule_based,Number & Operations—Fractions,0.7575757575757576
+5,claude-sonnet-4-5-20250929,rule_based,Operations & Algebraic Thinking,0.8484848484848485

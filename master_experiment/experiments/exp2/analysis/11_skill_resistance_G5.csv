@@ -1,0 +1,10 @@
+model,prompt,skill,r
+claude-sonnet-4-5-20250929,explicit_decision,Number & Operations in Base Ten,0.9032258064516129
+claude-sonnet-4-5-20250929,explicit_decision,Number & Operations—Fractions,0.88
+claude-sonnet-4-5-20250929,explicit_decision,Operations & Algebraic Thinking,0.7672413793103449
+deepseek-chat,explicit_decision,Number & Operations in Base Ten,0.6484375
+deepseek-chat,explicit_decision,Number & Operations—Fractions,0.6203703703703705
+deepseek-chat,explicit_decision,Operations & Algebraic Thinking,0.6379310344827586
+gpt-4o,explicit_decision,Number & Operations in Base Ten,0.8478260869565217
+gpt-4o,explicit_decision,Number & Operations—Fractions,0.2678564107135536
+gpt-4o,explicit_decision,Operations & Algebraic Thinking,0.6124996124996125

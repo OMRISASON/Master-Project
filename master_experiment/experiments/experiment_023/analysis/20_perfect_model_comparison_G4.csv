@@ -1,0 +1,5 @@
+grade,model,skill,mean_accuracy
+4,claude-sonnet-4-5-20250929,Measurement & Data,0.9230769230769231
+4,claude-sonnet-4-5-20250929,Number & Operations in Base Ten,0.84
+4,claude-sonnet-4-5-20250929,Number & Operations—Fractions,1.0
+4,claude-sonnet-4-5-20250929,Operations & Algebraic Thinking,0.8333333333333334

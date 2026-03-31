@@ -1,0 +1,28 @@
+model,skill,n_missing,acc_S
+claude-sonnet-4-5-20250929,Number & Operations in Base Ten,1,0.09696969696969697
+claude-sonnet-4-5-20250929,Number & Operations in Base Ten,2,0.14242424242424243
+claude-sonnet-4-5-20250929,Number & Operations in Base Ten,3,0.2727272727272727
+claude-sonnet-4-5-20250929,Number & Operations—Fractions,1,0.012121212121212121
+claude-sonnet-4-5-20250929,Number & Operations—Fractions,2,0.09696969696969697
+claude-sonnet-4-5-20250929,Number & Operations—Fractions,3,0.2727272727272727
+claude-sonnet-4-5-20250929,Operations & Algebraic Thinking,1,0.3151515151515151
+claude-sonnet-4-5-20250929,Operations & Algebraic Thinking,2,0.32727272727272727
+claude-sonnet-4-5-20250929,Operations & Algebraic Thinking,3,0.5151515151515151
+deepseek-chat,Number & Operations in Base Ten,1,0.5333333333333333
+deepseek-chat,Number & Operations in Base Ten,2,0.5212121212121212
+deepseek-chat,Number & Operations in Base Ten,3,0.48484848484848486
+deepseek-chat,Number & Operations—Fractions,1,0.1878787878787879
+deepseek-chat,Number & Operations—Fractions,2,0.31212121212121213
+deepseek-chat,Number & Operations—Fractions,3,0.30303030303030304
+deepseek-chat,Operations & Algebraic Thinking,1,0.6060606060606061
+deepseek-chat,Operations & Algebraic Thinking,2,0.5454545454545455
+deepseek-chat,Operations & Algebraic Thinking,3,0.5454545454545454
+gpt-4o,Number & Operations in Base Ten,1,0.4242424242424242
+gpt-4o,Number & Operations in Base Ten,2,0.3090909090909091
+gpt-4o,Number & Operations in Base Ten,3,0.15151515151515152
+gpt-4o,Number & Operations—Fractions,1,0.2121212121212121
+gpt-4o,Number & Operations—Fractions,2,0.2
+gpt-4o,Number & Operations—Fractions,3,0.15151515151515152
+gpt-4o,Operations & Algebraic Thinking,1,0.36363636363636365
+gpt-4o,Operations & Algebraic Thinking,2,0.36666666666666664
+gpt-4o,Operations & Algebraic Thinking,3,0.24242424242424243

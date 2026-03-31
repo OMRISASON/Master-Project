@@ -1,0 +1,62 @@
+{
+  "experiment_id": "experiment_023",
+  "experiment_num": 23,
+  "started_at": "2026-03-15T23:31:32",
+  "completed_at": "2026-03-15T23:46:45",
+  "status": "completed",
+  "models": [
+    "claude-sonnet-4-5-20250929"
+  ],
+  "prompts": [
+    "rule_based",
+    "few_shot",
+    "combined"
+  ],
+  "prompt_templates": {
+    "rule_based": "_unified_",
+    "few_shot": "_unified_",
+    "combined": "_unified_"
+  },
+  "grades": [
+    4,
+    5
+  ],
+  "temperatures": [
+    0.0
+  ],
+  "n_runs_edge": 1,
+  "n_runs_other": 1,
+  "total_runs_planned": 72,
+  "total_runs_completed": 72,
+  "grades_detail": {
+    "4": {
+      "n_questions": 99,
+      "skills": [
+        "Measurement & Data",
+        "Number & Operations in Base Ten",
+        "Number & Operations—Fractions",
+        "Operations & Algebraic Thinking"
+      ],
+      "n_skills": 4,
+      "n_students": 16
+    },
+    "5": {
+      "n_questions": 99,
+      "skills": [
+        "Number & Operations in Base Ten",
+        "Number & Operations—Fractions",
+        "Operations & Algebraic Thinking"
+      ],
+      "n_skills": 3,
+      "n_students": 8
+    }
+  },
+  "excel_path": "C:\\Users\\Omri Sason\\Desktop\\School\\Project\\master_experiment\\experiments\\experiment_023\\results_023.xlsx",
+  "config": {
+    "max_tokens": 16,
+    "max_retries": 3,
+    "timeout_s": 60,
+    "random_seed": 42
+  },
+  "total_elapsed_seconds": 912.2
+}

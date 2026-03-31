@@ -1,0 +1,7 @@
+grade,model,prompt,mean_efficiency,pct_overshoot,mean_offTarget_eff,n_skills
+4,claude-sonnet-4-5-20250929,combined,0.5626765536723164,21.875,,32
+4,claude-sonnet-4-5-20250929,few_shot,-0.0328861287018067,0.0,,32
+4,claude-sonnet-4-5-20250929,rule_based,0.7497469397363465,31.25,,32
+5,claude-sonnet-4-5-20250929,combined,0.3272650736987945,0.0,,12
+5,claude-sonnet-4-5-20250929,few_shot,-0.017902492865452892,0.0,,12
+5,claude-sonnet-4-5-20250929,rule_based,0.5491695420300231,8.333333333333332,,12

@@ -1,0 +1,13 @@
+grade,model,prompt,group,mean_r
+4,claude-sonnet-4-5-20250929,combined,Forgotten (k=0),0.41004464285714287
+4,claude-sonnet-4-5-20250929,combined,Retained (k=1),-0.014030612244897945
+4,claude-sonnet-4-5-20250929,few_shot,Forgotten (k=0),-0.022057095864661674
+4,claude-sonnet-4-5-20250929,few_shot,Retained (k=1),-0.05075187969924814
+4,claude-sonnet-4-5-20250929,rule_based,Forgotten (k=0),0.5440104166666666
+4,claude-sonnet-4-5-20250929,rule_based,Retained (k=1),0.029889455782312918
+5,claude-sonnet-4-5-20250929,combined,Forgotten (k=0),0.23251488095238096
+5,claude-sonnet-4-5-20250929,combined,Retained (k=1),-0.018769841269841256
+5,claude-sonnet-4-5-20250929,few_shot,Forgotten (k=0),-0.010714285714285725
+5,claude-sonnet-4-5-20250929,few_shot,Retained (k=1),-0.05049603174603176
+5,claude-sonnet-4-5-20250929,rule_based,Forgotten (k=0),0.39119047619047614
+5,claude-sonnet-4-5-20250929,rule_based,Retained (k=1),0.0064484126984127

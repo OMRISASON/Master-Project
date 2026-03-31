@@ -1,0 +1,4 @@
+grade,model,prompt,rmse
+4,deepseek-chat,combined,0.44860262385203964
+4,deepseek-chat,few_shot,0.6878795975504595
+4,deepseek-chat,rule_based,0.5534066412895693

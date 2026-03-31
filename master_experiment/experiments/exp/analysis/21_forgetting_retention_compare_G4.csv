@@ -1,0 +1,7 @@
+model,group,mean_r,n
+claude-sonnet-4-5-20250929,Forgotten (k=0),0.6898148148148149,144
+claude-sonnet-4-5-20250929,Retained (k=1),0.0894671201814059,140
+deepseek-chat,Forgotten (k=0),0.3680163043478261,144
+deepseek-chat,Retained (k=1),0.01675391895888791,140
+gpt-4o,Forgotten (k=0),0.6947372004357298,144
+gpt-4o,Retained (k=1),0.054697128851540606,140

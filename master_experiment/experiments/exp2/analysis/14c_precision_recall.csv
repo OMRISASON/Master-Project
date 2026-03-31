@@ -1,0 +1,7 @@
+grade,model,prompt,precision,recall,f1
+4,claude-sonnet-4-5-20250929,explicit_decision,0.9696969696969697,1.0,0.9846153846153847
+4,deepseek-chat,explicit_decision,0.8205128205128205,1.0,0.9014084507042254
+4,gpt-4o,explicit_decision,0.7272727272727273,1.0,0.8421052631578948
+5,claude-sonnet-4-5-20250929,explicit_decision,1.0,1.0,1.0
+5,deepseek-chat,explicit_decision,1.0,1.0,1.0
+5,gpt-4o,explicit_decision,0.9230769230769231,1.0,0.9600000000000001

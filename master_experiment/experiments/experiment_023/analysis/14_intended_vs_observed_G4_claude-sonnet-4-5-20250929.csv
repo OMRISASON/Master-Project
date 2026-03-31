@@ -1,0 +1,49 @@
+grade,model,prompt,student_id,skill,k,observed_acc
+4,claude-sonnet-4-5-20250929,combined,7,Measurement & Data,1,0.9615384615384616
+4,claude-sonnet-4-5-20250929,combined,7,Number & Operations in Base Ten,1,0.92
+4,claude-sonnet-4-5-20250929,combined,7,Number & Operations—Fractions,1,1.0
+4,claude-sonnet-4-5-20250929,combined,7,Operations & Algebraic Thinking,0,0.4166666666666667
+4,claude-sonnet-4-5-20250929,few_shot,7,Measurement & Data,1,1.0
+4,claude-sonnet-4-5-20250929,few_shot,7,Number & Operations in Base Ten,1,0.96
+4,claude-sonnet-4-5-20250929,few_shot,7,Number & Operations—Fractions,1,1.0
+4,claude-sonnet-4-5-20250929,few_shot,7,Operations & Algebraic Thinking,0,0.875
+4,claude-sonnet-4-5-20250929,rule_based,7,Measurement & Data,1,0.8076923076923077
+4,claude-sonnet-4-5-20250929,rule_based,7,Number & Operations in Base Ten,1,0.92
+4,claude-sonnet-4-5-20250929,rule_based,7,Number & Operations—Fractions,1,0.9583333333333334
+4,claude-sonnet-4-5-20250929,rule_based,7,Operations & Algebraic Thinking,0,0.4166666666666667
+4,claude-sonnet-4-5-20250929,combined,11,Measurement & Data,1,0.8846153846153846
+4,claude-sonnet-4-5-20250929,combined,11,Number & Operations in Base Ten,1,0.96
+4,claude-sonnet-4-5-20250929,combined,11,Number & Operations—Fractions,0,0.16666666666666666
+4,claude-sonnet-4-5-20250929,combined,11,Operations & Algebraic Thinking,1,0.875
+4,claude-sonnet-4-5-20250929,few_shot,11,Measurement & Data,1,0.9615384615384616
+4,claude-sonnet-4-5-20250929,few_shot,11,Number & Operations in Base Ten,1,0.92
+4,claude-sonnet-4-5-20250929,few_shot,11,Number & Operations—Fractions,0,1.0
+4,claude-sonnet-4-5-20250929,few_shot,11,Operations & Algebraic Thinking,1,0.8333333333333334
+4,claude-sonnet-4-5-20250929,rule_based,11,Measurement & Data,1,0.9615384615384616
+4,claude-sonnet-4-5-20250929,rule_based,11,Number & Operations in Base Ten,1,0.92
+4,claude-sonnet-4-5-20250929,rule_based,11,Number & Operations—Fractions,0,0.041666666666666664
+4,claude-sonnet-4-5-20250929,rule_based,11,Operations & Algebraic Thinking,1,0.875
+4,claude-sonnet-4-5-20250929,combined,13,Measurement & Data,1,0.8846153846153846
+4,claude-sonnet-4-5-20250929,combined,13,Number & Operations in Base Ten,0,0.88
+4,claude-sonnet-4-5-20250929,combined,13,Number & Operations—Fractions,1,1.0
+4,claude-sonnet-4-5-20250929,combined,13,Operations & Algebraic Thinking,1,0.8333333333333334
+4,claude-sonnet-4-5-20250929,few_shot,13,Measurement & Data,1,0.9615384615384616
+4,claude-sonnet-4-5-20250929,few_shot,13,Number & Operations in Base Ten,0,0.92
+4,claude-sonnet-4-5-20250929,few_shot,13,Number & Operations—Fractions,1,1.0
+4,claude-sonnet-4-5-20250929,few_shot,13,Operations & Algebraic Thinking,1,0.8333333333333334
+4,claude-sonnet-4-5-20250929,rule_based,13,Measurement & Data,1,0.7692307692307693
+4,claude-sonnet-4-5-20250929,rule_based,13,Number & Operations in Base Ten,0,0.72
+4,claude-sonnet-4-5-20250929,rule_based,13,Number & Operations—Fractions,1,0.9583333333333334
+4,claude-sonnet-4-5-20250929,rule_based,13,Operations & Algebraic Thinking,1,0.7916666666666666
+4,claude-sonnet-4-5-20250929,combined,14,Measurement & Data,0,0.9230769230769231
+4,claude-sonnet-4-5-20250929,combined,14,Number & Operations in Base Ten,1,0.96
+4,claude-sonnet-4-5-20250929,combined,14,Number & Operations—Fractions,1,1.0
+4,claude-sonnet-4-5-20250929,combined,14,Operations & Algebraic Thinking,1,0.8333333333333334
+4,claude-sonnet-4-5-20250929,few_shot,14,Measurement & Data,0,0.9615384615384616
+4,claude-sonnet-4-5-20250929,few_shot,14,Number & Operations in Base Ten,1,0.96
+4,claude-sonnet-4-5-20250929,few_shot,14,Number & Operations—Fractions,1,1.0
+4,claude-sonnet-4-5-20250929,few_shot,14,Operations & Algebraic Thinking,1,0.875
+4,claude-sonnet-4-5-20250929,rule_based,14,Measurement & Data,0,0.7692307692307693
+4,claude-sonnet-4-5-20250929,rule_based,14,Number & Operations in Base Ten,1,0.96
+4,claude-sonnet-4-5-20250929,rule_based,14,Number & Operations—Fractions,1,0.9583333333333334
+4,claude-sonnet-4-5-20250929,rule_based,14,Operations & Algebraic Thinking,1,0.8333333333333334

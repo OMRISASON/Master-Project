@@ -1,0 +1,13 @@
+grade,model,prompt,skill,accuracy
+4,deepseek-chat,combined,Skill 1,0.9615384615384616
+4,deepseek-chat,combined,Skill 2,0.92
+4,deepseek-chat,combined,Skill 3,0.875
+4,deepseek-chat,combined,Skill 4,0.8333333333333334
+4,deepseek-chat,few_shot,Skill 1,0.9615384615384616
+4,deepseek-chat,few_shot,Skill 2,0.88
+4,deepseek-chat,few_shot,Skill 3,0.9583333333333334
+4,deepseek-chat,few_shot,Skill 4,0.875
+4,deepseek-chat,rule_based,Skill 1,0.9230769230769231
+4,deepseek-chat,rule_based,Skill 2,0.92
+4,deepseek-chat,rule_based,Skill 3,0.9166666666666666
+4,deepseek-chat,rule_based,Skill 4,0.9166666666666666

@@ -1,0 +1,8 @@
+סיכום במשפט אחד
+
+המדד לא שואל “האם המודל טוב”,
+אלא “האם הפרומפט גורם למודל לשכוח רק את מה שביקשנו, ובדיוק במידה שביקשנו”.
+
+All students answered the full evaluation dataset.
+To avoid data leakage, few-shot examples were drawn exclusively from an external question bank that did not overlap with the evaluation dataset.
+The external examples were used solely to condition the student’s behavior with respect to each skill.

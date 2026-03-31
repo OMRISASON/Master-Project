@@ -1,0 +1,82 @@
+model,prompt,skill,n_missing,acc_S
+claude-sonnet-4-5-20250929,combined,Number & Operations in Base Ten,1,0.09696969696969697
+claude-sonnet-4-5-20250929,combined,Number & Operations in Base Ten,2,0.14242424242424243
+claude-sonnet-4-5-20250929,combined,Number & Operations in Base Ten,3,0.2727272727272727
+claude-sonnet-4-5-20250929,combined,Number & Operations—Fractions,1,0.012121212121212121
+claude-sonnet-4-5-20250929,combined,Number & Operations—Fractions,2,0.09696969696969697
+claude-sonnet-4-5-20250929,combined,Number & Operations—Fractions,3,0.2727272727272727
+claude-sonnet-4-5-20250929,combined,Operations & Algebraic Thinking,1,0.3151515151515151
+claude-sonnet-4-5-20250929,combined,Operations & Algebraic Thinking,2,0.32727272727272727
+claude-sonnet-4-5-20250929,combined,Operations & Algebraic Thinking,3,0.5151515151515151
+claude-sonnet-4-5-20250929,few_shot,Number & Operations in Base Ten,1,0.4787878787878788
+claude-sonnet-4-5-20250929,few_shot,Number & Operations in Base Ten,2,0.6121212121212121
+claude-sonnet-4-5-20250929,few_shot,Number & Operations in Base Ten,3,0.42424242424242425
+claude-sonnet-4-5-20250929,few_shot,Number & Operations—Fractions,1,0.6909090909090909
+claude-sonnet-4-5-20250929,few_shot,Number & Operations—Fractions,2,0.7242424242424242
+claude-sonnet-4-5-20250929,few_shot,Number & Operations—Fractions,3,0.6363636363636364
+claude-sonnet-4-5-20250929,few_shot,Operations & Algebraic Thinking,1,0.7212121212121213
+claude-sonnet-4-5-20250929,few_shot,Operations & Algebraic Thinking,2,0.8727272727272728
+claude-sonnet-4-5-20250929,few_shot,Operations & Algebraic Thinking,3,0.7272727272727273
+claude-sonnet-4-5-20250929,rule_based,Number & Operations in Base Ten,1,0.030303030303030304
+claude-sonnet-4-5-20250929,rule_based,Number & Operations in Base Ten,2,0.08787878787878788
+claude-sonnet-4-5-20250929,rule_based,Number & Operations in Base Ten,3,0.030303030303030304
+claude-sonnet-4-5-20250929,rule_based,Number & Operations—Fractions,1,0.0
+claude-sonnet-4-5-20250929,rule_based,Number & Operations—Fractions,2,0.03939393939393939
+claude-sonnet-4-5-20250929,rule_based,Number & Operations—Fractions,3,0.06060606060606061
+claude-sonnet-4-5-20250929,rule_based,Operations & Algebraic Thinking,1,0.09090909090909091
+claude-sonnet-4-5-20250929,rule_based,Operations & Algebraic Thinking,2,0.0696969696969697
+claude-sonnet-4-5-20250929,rule_based,Operations & Algebraic Thinking,3,0.09090909090909091
+deepseek-chat,combined,Number & Operations in Base Ten,1,0.5333333333333333
+deepseek-chat,combined,Number & Operations in Base Ten,2,0.5212121212121212
+deepseek-chat,combined,Number & Operations in Base Ten,3,0.48484848484848486
+deepseek-chat,combined,Number & Operations—Fractions,1,0.1878787878787879
+deepseek-chat,combined,Number & Operations—Fractions,2,0.31212121212121213
+deepseek-chat,combined,Number & Operations—Fractions,3,0.30303030303030304
+deepseek-chat,combined,Operations & Algebraic Thinking,1,0.6060606060606061
+deepseek-chat,combined,Operations & Algebraic Thinking,2,0.5454545454545455
+deepseek-chat,combined,Operations & Algebraic Thinking,3,0.5454545454545454
+deepseek-chat,few_shot,Number & Operations in Base Ten,1,0.9696969696969697
+deepseek-chat,few_shot,Number & Operations in Base Ten,2,0.9696969696969697
+deepseek-chat,few_shot,Number & Operations in Base Ten,3,0.9696969696969697
+deepseek-chat,few_shot,Number & Operations—Fractions,1,0.8303030303030303
+deepseek-chat,few_shot,Number & Operations—Fractions,2,0.8181818181818181
+deepseek-chat,few_shot,Number & Operations—Fractions,3,0.8181818181818182
+deepseek-chat,few_shot,Operations & Algebraic Thinking,1,0.9696969696969697
+deepseek-chat,few_shot,Operations & Algebraic Thinking,2,0.9545454545454547
+deepseek-chat,few_shot,Operations & Algebraic Thinking,3,0.9696969696969697
+deepseek-chat,rule_based,Number & Operations in Base Ten,1,0.6242424242424243
+deepseek-chat,rule_based,Number & Operations in Base Ten,2,0.806060606060606
+deepseek-chat,rule_based,Number & Operations in Base Ten,3,0.8484848484848485
+deepseek-chat,rule_based,Number & Operations—Fractions,1,0.6666666666666666
+deepseek-chat,rule_based,Number & Operations—Fractions,2,0.6848484848484848
+deepseek-chat,rule_based,Number & Operations—Fractions,3,0.6363636363636364
+deepseek-chat,rule_based,Operations & Algebraic Thinking,1,0.7636363636363637
+deepseek-chat,rule_based,Operations & Algebraic Thinking,2,0.7757575757575758
+deepseek-chat,rule_based,Operations & Algebraic Thinking,3,0.7575757575757576
+gpt-4o,combined,Number & Operations in Base Ten,1,0.4242424242424242
+gpt-4o,combined,Number & Operations in Base Ten,2,0.3090909090909091
+gpt-4o,combined,Number & Operations in Base Ten,3,0.15151515151515152
+gpt-4o,combined,Number & Operations—Fractions,1,0.2121212121212121
+gpt-4o,combined,Number & Operations—Fractions,2,0.2
+gpt-4o,combined,Number & Operations—Fractions,3,0.15151515151515152
+gpt-4o,combined,Operations & Algebraic Thinking,1,0.36363636363636365
+gpt-4o,combined,Operations & Algebraic Thinking,2,0.36666666666666664
+gpt-4o,combined,Operations & Algebraic Thinking,3,0.24242424242424243
+gpt-4o,few_shot,Number & Operations in Base Ten,1,0.5212121212121212
+gpt-4o,few_shot,Number & Operations in Base Ten,2,0.4636363636363637
+gpt-4o,few_shot,Number & Operations in Base Ten,3,0.5757575757575758
+gpt-4o,few_shot,Number & Operations—Fractions,1,0.36363636363636365
+gpt-4o,few_shot,Number & Operations—Fractions,2,0.3696969696969697
+gpt-4o,few_shot,Number & Operations—Fractions,3,0.42424242424242425
+gpt-4o,few_shot,Operations & Algebraic Thinking,1,0.4787878787878788
+gpt-4o,few_shot,Operations & Algebraic Thinking,2,0.4909090909090909
+gpt-4o,few_shot,Operations & Algebraic Thinking,3,0.5757575757575758
+gpt-4o,rule_based,Number & Operations in Base Ten,1,0.23030303030303031
+gpt-4o,rule_based,Number & Operations in Base Ten,2,0.25757575757575757
+gpt-4o,rule_based,Number & Operations in Base Ten,3,0.18181818181818182
+gpt-4o,rule_based,Number & Operations—Fractions,1,0.296969696969697
+gpt-4o,rule_based,Number & Operations—Fractions,2,0.26969696969696966
+gpt-4o,rule_based,Number & Operations—Fractions,3,0.18181818181818182
+gpt-4o,rule_based,Operations & Algebraic Thinking,1,0.28484848484848485
+gpt-4o,rule_based,Operations & Algebraic Thinking,2,0.2636363636363636
+gpt-4o,rule_based,Operations & Algebraic Thinking,3,0.18181818181818182

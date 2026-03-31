@@ -1,0 +1,28 @@
+model,prompt,skill,r_std
+claude-sonnet-4-5-20250929,combined,Number & Operations in Base Ten,0.025388769248944516
+claude-sonnet-4-5-20250929,combined,Number & Operations—Fractions,0.030618621784789732
+claude-sonnet-4-5-20250929,combined,Operations & Algebraic Thinking,0.042866070498705604
+claude-sonnet-4-5-20250929,few_shot,Number & Operations in Base Ten,0.02356668891384072
+claude-sonnet-4-5-20250929,few_shot,Number & Operations—Fractions,0.010526315789473691
+claude-sonnet-4-5-20250929,few_shot,Operations & Algebraic Thinking,0.007671534039281349
+claude-sonnet-4-5-20250929,rule_based,Number & Operations in Base Ten,0.010000000000000009
+claude-sonnet-4-5-20250929,rule_based,Number & Operations—Fractions,0.07415816237971963
+claude-sonnet-4-5-20250929,rule_based,Operations & Algebraic Thinking,0.04387022531559968
+deepseek-chat,combined,Number & Operations in Base Ten,0.02764899955442603
+deepseek-chat,combined,Number & Operations—Fractions,0.01194349952367252
+deepseek-chat,combined,Operations & Algebraic Thinking,0.0
+deepseek-chat,few_shot,Number & Operations in Base Ten,0.0
+deepseek-chat,few_shot,Number & Operations—Fractions,0.013793103448275864
+deepseek-chat,few_shot,Operations & Algebraic Thinking,0.0
+deepseek-chat,rule_based,Number & Operations in Base Ten,0.012499999999999997
+deepseek-chat,rule_based,Number & Operations—Fractions,0.003448275862068973
+deepseek-chat,rule_based,Operations & Algebraic Thinking,0.016129032258064502
+gpt-4o,combined,Number & Operations in Base Ten,0.023407028321060237
+gpt-4o,combined,Number & Operations—Fractions,0.05654648111913485
+gpt-4o,combined,Operations & Algebraic Thinking,0.030007386401337776
+gpt-4o,few_shot,Number & Operations in Base Ten,0.02461427576243552
+gpt-4o,few_shot,Number & Operations—Fractions,0.064480102392545
+gpt-4o,few_shot,Operations & Algebraic Thinking,0.020372782596773532
+gpt-4o,rule_based,Number & Operations in Base Ten,0.027128003935196036
+gpt-4o,rule_based,Number & Operations—Fractions,0.056531967478587276
+gpt-4o,rule_based,Operations & Algebraic Thinking,0.04227801197055143

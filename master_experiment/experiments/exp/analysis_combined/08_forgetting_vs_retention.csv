@@ -1,0 +1,13 @@
+grade,model,group,mean_r
+4,claude-sonnet-4-5-20250929,Forgotten (k=0),0.6898148148148149
+4,claude-sonnet-4-5-20250929,Retained (k=1),0.0894671201814059
+4,deepseek-chat,Forgotten (k=0),0.3680163043478261
+4,deepseek-chat,Retained (k=1),0.01675391895888791
+4,gpt-4o,Forgotten (k=0),0.6947372004357298
+4,gpt-4o,Retained (k=1),0.054697128851540606
+5,claude-sonnet-4-5-20250929,Forgotten (k=0),0.632217261904762
+5,claude-sonnet-4-5-20250929,Retained (k=1),0.36179894179894184
+5,deepseek-chat,Forgotten (k=0),0.5089325716845878
+5,deepseek-chat,Retained (k=1),0.017071551838576962
+5,gpt-4o,Forgotten (k=0),0.4435019841269841
+5,gpt-4o,Retained (k=1),0.001798941798941819

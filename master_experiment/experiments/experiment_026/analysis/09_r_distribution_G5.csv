@@ -1,0 +1,64 @@
+grade,model,prompt,skill,k,r,replicate
+5,claude-sonnet-4-5-20250929,explicit_decision,Number & Operations in Base Ten,0,0.9032258064516129,0
+5,claude-sonnet-4-5-20250929,explicit_decision,Number & Operations—Fractions,0,0.92,0
+5,claude-sonnet-4-5-20250929,explicit_decision,Operations & Algebraic Thinking,0,0.7931034482758621,0
+5,claude-sonnet-4-5-20250929,explicit_decision,Number & Operations in Base Ten,1,0.0,0
+5,claude-sonnet-4-5-20250929,explicit_decision,Number & Operations—Fractions,0,0.84,0
+5,claude-sonnet-4-5-20250929,explicit_decision,Operations & Algebraic Thinking,0,0.7241379310344828,0
+5,claude-sonnet-4-5-20250929,explicit_decision,Number & Operations in Base Ten,0,0.9032258064516129,0
+5,claude-sonnet-4-5-20250929,explicit_decision,Number & Operations—Fractions,1,0.039999999999999966,0
+5,claude-sonnet-4-5-20250929,explicit_decision,Operations & Algebraic Thinking,0,0.7586206896551724,0
+5,claude-sonnet-4-5-20250929,explicit_decision,Number & Operations in Base Ten,1,0.0,0
+5,claude-sonnet-4-5-20250929,explicit_decision,Number & Operations—Fractions,1,0.0,0
+5,claude-sonnet-4-5-20250929,explicit_decision,Operations & Algebraic Thinking,0,0.7931034482758621,0
+5,claude-sonnet-4-5-20250929,explicit_decision,Number & Operations in Base Ten,0,0.935483870967742,0
+5,claude-sonnet-4-5-20250929,explicit_decision,Number & Operations—Fractions,0,0.9600000000000001,0
+5,claude-sonnet-4-5-20250929,explicit_decision,Operations & Algebraic Thinking,1,0.0,0
+5,claude-sonnet-4-5-20250929,explicit_decision,Number & Operations in Base Ten,1,0.0,0
+5,claude-sonnet-4-5-20250929,explicit_decision,Number & Operations—Fractions,0,0.8,0
+5,claude-sonnet-4-5-20250929,explicit_decision,Operations & Algebraic Thinking,1,0.03448275862068963,0
+5,claude-sonnet-4-5-20250929,explicit_decision,Number & Operations in Base Ten,0,0.8709677419354839,0
+5,claude-sonnet-4-5-20250929,explicit_decision,Number & Operations—Fractions,1,0.07999999999999993,0
+5,claude-sonnet-4-5-20250929,explicit_decision,Operations & Algebraic Thinking,1,0.03448275862068963,0
+5,gpt-4o,explicit_decision,Number & Operations in Base Ten,0,0.8260869565217391,0
+5,gpt-4o,explicit_decision,Number & Operations—Fractions,0,0.0,0
+5,gpt-4o,explicit_decision,Operations & Algebraic Thinking,0,0.5263157894736843,0
+5,gpt-4o,explicit_decision,Number & Operations in Base Ten,1,-0.13043478260869554,0
+5,gpt-4o,explicit_decision,Number & Operations—Fractions,0,0.0,0
+5,gpt-4o,explicit_decision,Operations & Algebraic Thinking,0,0.5789473684210527,0
+5,gpt-4o,explicit_decision,Number & Operations in Base Ten,0,0.8695652173913043,0
+5,gpt-4o,explicit_decision,Number & Operations—Fractions,1,-0.090909090909091,0
+5,gpt-4o,explicit_decision,Operations & Algebraic Thinking,0,0.631578947368421,0
+5,gpt-4o,explicit_decision,Number & Operations in Base Ten,1,-0.043478260869565175,0
+5,gpt-4o,explicit_decision,Number & Operations—Fractions,1,-0.18181818181818182,0
+5,gpt-4o,explicit_decision,Operations & Algebraic Thinking,0,0.631578947368421,0
+5,gpt-4o,explicit_decision,Number & Operations in Base Ten,0,0.8695652173913043,0
+5,gpt-4o,explicit_decision,Number & Operations—Fractions,0,0.18181818181818182,0
+5,gpt-4o,explicit_decision,Operations & Algebraic Thinking,1,-0.05263157894736837,0
+5,gpt-4o,explicit_decision,Number & Operations in Base Ten,1,0.043478260869565334,0
+5,gpt-4o,explicit_decision,Number & Operations—Fractions,0,0.09090909090909083,0
+5,gpt-4o,explicit_decision,Operations & Algebraic Thinking,1,0.0,0
+5,gpt-4o,explicit_decision,Number & Operations in Base Ten,0,0.8260869565217391,0
+5,gpt-4o,explicit_decision,Number & Operations—Fractions,1,0.0,0
+5,gpt-4o,explicit_decision,Operations & Algebraic Thinking,1,-0.05263157894736837,0
+5,deepseek-chat,explicit_decision,Number & Operations in Base Ten,0,0.125,0
+5,deepseek-chat,explicit_decision,Number & Operations—Fractions,0,-0.3333333333333333,0
+5,deepseek-chat,explicit_decision,Operations & Algebraic Thinking,0,0.25,0
+5,deepseek-chat,explicit_decision,Number & Operations in Base Ten,1,-2.625,0
+5,deepseek-chat,explicit_decision,Number & Operations—Fractions,0,-1.9999999999999998,0
+5,deepseek-chat,explicit_decision,Operations & Algebraic Thinking,0,0.6875000000000001,0
+5,deepseek-chat,explicit_decision,Number & Operations in Base Ten,0,0.25,0
+5,deepseek-chat,explicit_decision,Number & Operations—Fractions,1,-1.9999999999999998,0
+5,deepseek-chat,explicit_decision,Operations & Algebraic Thinking,0,0.5624999999999999,0
+5,deepseek-chat,explicit_decision,Number & Operations in Base Ten,1,-2.0,0
+5,deepseek-chat,explicit_decision,Number & Operations—Fractions,1,-2.3333333333333335,0
+5,deepseek-chat,explicit_decision,Operations & Algebraic Thinking,0,0.5624999999999999,0
+5,deepseek-chat,explicit_decision,Number & Operations in Base Ten,0,0.25,0
+5,deepseek-chat,explicit_decision,Number & Operations—Fractions,0,-2.6666666666666665,0
+5,deepseek-chat,explicit_decision,Operations & Algebraic Thinking,1,-0.6249999999999999,0
+5,deepseek-chat,explicit_decision,Number & Operations in Base Ten,1,-1.7499999999999998,0
+5,deepseek-chat,explicit_decision,Number & Operations—Fractions,0,-1.6666666666666667,0
+5,deepseek-chat,explicit_decision,Operations & Algebraic Thinking,1,-0.5624999999999999,0
+5,deepseek-chat,explicit_decision,Number & Operations in Base Ten,0,0.125,0
+5,deepseek-chat,explicit_decision,Number & Operations—Fractions,1,-0.3333333333333333,0
+5,deepseek-chat,explicit_decision,Operations & Algebraic Thinking,1,-0.5624999999999999,0

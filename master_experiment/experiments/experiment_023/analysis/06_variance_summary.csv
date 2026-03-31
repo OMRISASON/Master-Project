@@ -1,0 +1,7 @@
+grade,model,prompt,mean_acc,std_acc
+4,claude-sonnet-4-5-20250929,combined,0.7165404040404041,0.0
+4,claude-sonnet-4-5-20250929,few_shot,0.9160353535353536,0.0
+4,claude-sonnet-4-5-20250929,rule_based,0.638888888888889,0.0
+5,claude-sonnet-4-5-20250929,combined,0.7613636363636364,0.0
+5,claude-sonnet-4-5-20250929,few_shot,0.8762626262626263,0.0
+5,claude-sonnet-4-5-20250929,rule_based,0.6830808080808081,0.0

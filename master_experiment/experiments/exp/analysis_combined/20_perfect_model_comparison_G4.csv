@@ -1,0 +1,13 @@
+grade,model,skill,mean_accuracy
+4,claude-sonnet-4-5-20250929,Measurement & Data,0.8076923076923077
+4,claude-sonnet-4-5-20250929,Number & Operations in Base Ten,0.6
+4,claude-sonnet-4-5-20250929,Number & Operations—Fractions,0.5
+4,claude-sonnet-4-5-20250929,Operations & Algebraic Thinking,0.75
+4,deepseek-chat,Measurement & Data,0.9615384615384616
+4,deepseek-chat,Number & Operations in Base Ten,0.92
+4,deepseek-chat,Number & Operations—Fractions,0.875
+4,deepseek-chat,Operations & Algebraic Thinking,0.8333333333333334
+4,gpt-4o,Measurement & Data,0.6538461538461539
+4,gpt-4o,Number & Operations in Base Ten,0.6
+4,gpt-4o,Number & Operations—Fractions,0.8333333333333334
+4,gpt-4o,Operations & Algebraic Thinking,0.6666666666666666

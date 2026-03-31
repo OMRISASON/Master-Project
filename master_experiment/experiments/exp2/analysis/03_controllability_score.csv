@@ -1,0 +1,7 @@
+grade,model,prompt,controllability_score
+4,claude-sonnet-4-5-20250929,explicit_decision,0.47908244342740913
+4,deepseek-chat,explicit_decision,0.38231170399648656
+4,gpt-4o,explicit_decision,0.2885298958367852
+5,claude-sonnet-4-5-20250929,explicit_decision,0.476804915514593
+5,deepseek-chat,explicit_decision,0.3466463692756796
+5,gpt-4o,explicit_decision,0.29603653472331376

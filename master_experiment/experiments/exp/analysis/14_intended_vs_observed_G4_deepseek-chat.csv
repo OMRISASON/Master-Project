@@ -1,0 +1,49 @@
+grade,model,prompt,student_id,skill,k,observed_acc
+4,deepseek-chat,combined,7,Measurement & Data,1,0.9538461538461538
+4,deepseek-chat,combined,7,Number & Operations in Base Ten,1,0.8480000000000001
+4,deepseek-chat,combined,7,Number & Operations—Fractions,1,0.9083333333333332
+4,deepseek-chat,combined,7,Operations & Algebraic Thinking,0,0.6833333333333333
+4,deepseek-chat,few_shot,7,Measurement & Data,1,0.9615384615384615
+4,deepseek-chat,few_shot,7,Number & Operations in Base Ten,1,0.9279999999999999
+4,deepseek-chat,few_shot,7,Number & Operations—Fractions,1,0.9583333333333334
+4,deepseek-chat,few_shot,7,Operations & Algebraic Thinking,0,0.8333333333333334
+4,deepseek-chat,rule_based,7,Measurement & Data,1,0.9538461538461538
+4,deepseek-chat,rule_based,7,Number & Operations in Base Ten,1,0.8800000000000001
+4,deepseek-chat,rule_based,7,Number & Operations—Fractions,1,0.9583333333333334
+4,deepseek-chat,rule_based,7,Operations & Algebraic Thinking,0,0.4333333333333333
+4,deepseek-chat,combined,11,Measurement & Data,1,0.9307692307692308
+4,deepseek-chat,combined,11,Number & Operations in Base Ten,1,0.8800000000000001
+4,deepseek-chat,combined,11,Number & Operations—Fractions,0,0.625
+4,deepseek-chat,combined,11,Operations & Algebraic Thinking,1,0.8333333333333334
+4,deepseek-chat,few_shot,11,Measurement & Data,1,0.9538461538461538
+4,deepseek-chat,few_shot,11,Number & Operations in Base Ten,1,0.9200000000000002
+4,deepseek-chat,few_shot,11,Number & Operations—Fractions,0,0.9583333333333334
+4,deepseek-chat,few_shot,11,Operations & Algebraic Thinking,1,0.875
+4,deepseek-chat,rule_based,11,Measurement & Data,1,0.8923076923076924
+4,deepseek-chat,rule_based,11,Number & Operations in Base Ten,1,0.8800000000000001
+4,deepseek-chat,rule_based,11,Number & Operations—Fractions,0,0.95
+4,deepseek-chat,rule_based,11,Operations & Algebraic Thinking,1,0.8416666666666668
+4,deepseek-chat,combined,13,Measurement & Data,1,0.9538461538461538
+4,deepseek-chat,combined,13,Number & Operations in Base Ten,0,0.44799999999999995
+4,deepseek-chat,combined,13,Number & Operations—Fractions,1,0.875
+4,deepseek-chat,combined,13,Operations & Algebraic Thinking,1,0.8333333333333334
+4,deepseek-chat,few_shot,13,Measurement & Data,1,0.9615384615384615
+4,deepseek-chat,few_shot,13,Number & Operations in Base Ten,0,0.8880000000000001
+4,deepseek-chat,few_shot,13,Number & Operations—Fractions,1,0.9583333333333334
+4,deepseek-chat,few_shot,13,Operations & Algebraic Thinking,1,0.875
+4,deepseek-chat,rule_based,13,Measurement & Data,1,0.9230769230769231
+4,deepseek-chat,rule_based,13,Number & Operations in Base Ten,0,0.76
+4,deepseek-chat,rule_based,13,Number & Operations—Fractions,1,0.95
+4,deepseek-chat,rule_based,13,Operations & Algebraic Thinking,1,0.8833333333333332
+4,deepseek-chat,combined,14,Measurement & Data,0,0.5076923076923077
+4,deepseek-chat,combined,14,Number & Operations in Base Ten,1,0.8480000000000001
+4,deepseek-chat,combined,14,Number & Operations—Fractions,1,0.9166666666666666
+4,deepseek-chat,combined,14,Operations & Algebraic Thinking,1,0.75
+4,deepseek-chat,few_shot,14,Measurement & Data,0,0.9615384615384615
+4,deepseek-chat,few_shot,14,Number & Operations in Base Ten,1,0.952
+4,deepseek-chat,few_shot,14,Number & Operations—Fractions,1,0.9583333333333334
+4,deepseek-chat,few_shot,14,Operations & Algebraic Thinking,1,0.875
+4,deepseek-chat,rule_based,14,Measurement & Data,0,0.7538461538461538
+4,deepseek-chat,rule_based,14,Number & Operations in Base Ten,1,0.8800000000000001
+4,deepseek-chat,rule_based,14,Number & Operations—Fractions,1,0.9583333333333334
+4,deepseek-chat,rule_based,14,Operations & Algebraic Thinking,1,0.8416666666666666

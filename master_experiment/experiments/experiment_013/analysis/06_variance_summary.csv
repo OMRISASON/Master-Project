@@ -1,0 +1,4 @@
+grade,model,prompt,mean_acc,std_acc
+4,deepseek-chat,combined,0.7132575757575758,0.009024720104006075
+4,deepseek-chat,few_shot,0.911489898989899,0.004234977230113225
+4,deepseek-chat,rule_based,0.795959595959596,0.006942132741011251

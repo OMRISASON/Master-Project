@@ -1,0 +1,7 @@
+grade,model,strategy,rmse,n_rows
+4,claude-sonnet-4-5-20250929,Combined,0.07800723694841774,15
+4,claude-sonnet-4-5-20250929,Few-shot,0.46307246685766684,71
+4,claude-sonnet-4-5-20250929,Rule-based,0.49494756555370933,71
+5,claude-sonnet-4-5-20250929,Combined,0.12087060930876427,7
+5,claude-sonnet-4-5-20250929,Few-shot,0.5804923293944051,31
+5,claude-sonnet-4-5-20250929,Rule-based,0.5905765132391877,31

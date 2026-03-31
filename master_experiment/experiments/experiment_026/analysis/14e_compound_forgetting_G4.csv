@@ -1,0 +1,49 @@
+model,prompt,skill,n_missing,acc_S
+claude-sonnet-4-5-20250929,explicit_decision,Measurement & Data,1,0.07692307692307693
+claude-sonnet-4-5-20250929,explicit_decision,Measurement & Data,2,0.038461538461538464
+claude-sonnet-4-5-20250929,explicit_decision,Measurement & Data,3,0.038461538461538464
+claude-sonnet-4-5-20250929,explicit_decision,Measurement & Data,4,0.038461538461538464
+claude-sonnet-4-5-20250929,explicit_decision,Number & Operations in Base Ten,1,0.04
+claude-sonnet-4-5-20250929,explicit_decision,Number & Operations in Base Ten,2,0.08
+claude-sonnet-4-5-20250929,explicit_decision,Number & Operations in Base Ten,3,0.04
+claude-sonnet-4-5-20250929,explicit_decision,Number & Operations in Base Ten,4,0.12
+claude-sonnet-4-5-20250929,explicit_decision,Number & Operations—Fractions,1,0.0
+claude-sonnet-4-5-20250929,explicit_decision,Number & Operations—Fractions,2,0.0
+claude-sonnet-4-5-20250929,explicit_decision,Number & Operations—Fractions,3,0.0
+claude-sonnet-4-5-20250929,explicit_decision,Number & Operations—Fractions,4,0.0
+claude-sonnet-4-5-20250929,explicit_decision,Operations & Algebraic Thinking,1,0.16666666666666666
+claude-sonnet-4-5-20250929,explicit_decision,Operations & Algebraic Thinking,2,0.16666666666666666
+claude-sonnet-4-5-20250929,explicit_decision,Operations & Algebraic Thinking,3,0.16666666666666666
+claude-sonnet-4-5-20250929,explicit_decision,Operations & Algebraic Thinking,4,0.125
+deepseek-chat,explicit_decision,Measurement & Data,1,0.11538461538461539
+deepseek-chat,explicit_decision,Measurement & Data,2,0.15384615384615385
+deepseek-chat,explicit_decision,Measurement & Data,3,0.12820512820512822
+deepseek-chat,explicit_decision,Measurement & Data,4,0.038461538461538464
+deepseek-chat,explicit_decision,Number & Operations in Base Ten,1,0.2
+deepseek-chat,explicit_decision,Number & Operations in Base Ten,2,0.37333333333333335
+deepseek-chat,explicit_decision,Number & Operations in Base Ten,3,0.22666666666666666
+deepseek-chat,explicit_decision,Number & Operations in Base Ten,4,0.28
+deepseek-chat,explicit_decision,Number & Operations—Fractions,1,0.125
+deepseek-chat,explicit_decision,Number & Operations—Fractions,2,0.15277777777777776
+deepseek-chat,explicit_decision,Number & Operations—Fractions,3,0.13888888888888887
+deepseek-chat,explicit_decision,Number & Operations—Fractions,4,0.041666666666666664
+deepseek-chat,explicit_decision,Operations & Algebraic Thinking,1,0.08333333333333333
+deepseek-chat,explicit_decision,Operations & Algebraic Thinking,2,0.08333333333333333
+deepseek-chat,explicit_decision,Operations & Algebraic Thinking,3,0.08333333333333333
+deepseek-chat,explicit_decision,Operations & Algebraic Thinking,4,0.16666666666666666
+gpt-4o,explicit_decision,Measurement & Data,1,0.19230769230769232
+gpt-4o,explicit_decision,Measurement & Data,2,0.2692307692307692
+gpt-4o,explicit_decision,Measurement & Data,3,0.2692307692307692
+gpt-4o,explicit_decision,Measurement & Data,4,0.23076923076923078
+gpt-4o,explicit_decision,Number & Operations in Base Ten,1,0.12
+gpt-4o,explicit_decision,Number & Operations in Base Ten,2,0.17333333333333334
+gpt-4o,explicit_decision,Number & Operations in Base Ten,3,0.24
+gpt-4o,explicit_decision,Number & Operations in Base Ten,4,0.2
+gpt-4o,explicit_decision,Number & Operations—Fractions,1,0.375
+gpt-4o,explicit_decision,Number & Operations—Fractions,2,0.40277777777777785
+gpt-4o,explicit_decision,Number & Operations—Fractions,3,0.3888888888888889
+gpt-4o,explicit_decision,Number & Operations—Fractions,4,0.2916666666666667
+gpt-4o,explicit_decision,Operations & Algebraic Thinking,1,0.08333333333333333
+gpt-4o,explicit_decision,Operations & Algebraic Thinking,2,0.09722222222222222
+gpt-4o,explicit_decision,Operations & Algebraic Thinking,3,0.1111111111111111
+gpt-4o,explicit_decision,Operations & Algebraic Thinking,4,0.125

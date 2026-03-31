@@ -1,0 +1,50 @@
+{
+  "experiment_id": "experiment_014",
+  "experiment_num": 14,
+  "started_at": "2026-03-10T23:08:48",
+  "completed_at": "2026-03-11T02:16:08",
+  "status": "completed",
+  "models": [
+    "deepseek-chat"
+  ],
+  "prompts": [
+    "rule_based",
+    "few_shot",
+    "combined"
+  ],
+  "prompt_templates": {
+    "rule_based": "_unified_",
+    "few_shot": "_unified_",
+    "combined": "_unified_"
+  },
+  "grades": [
+    5
+  ],
+  "temperatures": [
+    0.0
+  ],
+  "n_runs_edge": 1,
+  "n_runs_other": 5,
+  "total_runs_planned": 96,
+  "total_runs_completed": 96,
+  "grades_detail": {
+    "5": {
+      "n_questions": 99,
+      "skills": [
+        "Number & Operations in Base Ten",
+        "Number & Operations—Fractions",
+        "Operations & Algebraic Thinking"
+      ],
+      "n_skills": 3,
+      "n_students": 8
+    }
+  },
+  "excel_path": "C:\\Users\\Omri Sason\\Desktop\\School\\Project\\master_experiment\\experiments\\experiment_014\\results_014.xlsx",
+  "config": {
+    "max_tokens": 4,
+    "max_retries": 3,
+    "timeout_s": 60,
+    "random_seed": 42
+  },
+  "total_elapsed_seconds": 11240.1
+}

@@ -1,0 +1,3 @@
+model,group,mean_r,n
+claude-sonnet-4-5-20250929,Forgotten (k=0),0.41004464285714287,32
+claude-sonnet-4-5-20250929,Retained (k=1),-0.014030612244897945,28

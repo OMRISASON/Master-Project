@@ -1,0 +1,7 @@
+grade,prompt,student_id,n_missing,pearson_r
+5,explicit_decision,4,2,0.999504500754119
+5,explicit_decision,5,1,0.9944243241235435
+5,explicit_decision,1,2,0.9905360646879091
+5,explicit_decision,2,2,0.9837827088491454
+5,explicit_decision,6,1,0.9803156180632391
+5,explicit_decision,3,1,0.9732227014483794

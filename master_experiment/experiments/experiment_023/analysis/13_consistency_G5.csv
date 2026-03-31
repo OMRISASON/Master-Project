@@ -1,0 +1,10 @@
+model,prompt,skill,r_std
+claude-sonnet-4-5-20250929,combined,Number & Operations in Base Ten,0.0
+claude-sonnet-4-5-20250929,combined,Number & Operations—Fractions,0.0
+claude-sonnet-4-5-20250929,combined,Operations & Algebraic Thinking,0.0
+claude-sonnet-4-5-20250929,few_shot,Number & Operations in Base Ten,0.0
+claude-sonnet-4-5-20250929,few_shot,Number & Operations—Fractions,0.0
+claude-sonnet-4-5-20250929,few_shot,Operations & Algebraic Thinking,0.0
+claude-sonnet-4-5-20250929,rule_based,Number & Operations in Base Ten,0.0
+claude-sonnet-4-5-20250929,rule_based,Number & Operations—Fractions,0.0
+claude-sonnet-4-5-20250929,rule_based,Operations & Algebraic Thinking,0.0

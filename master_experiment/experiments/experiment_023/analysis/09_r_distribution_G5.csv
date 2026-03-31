@@ -1,0 +1,64 @@
+grade,model,prompt,skill,k,r,replicate
+5,claude-sonnet-4-5-20250929,rule_based,Number & Operations in Base Ten,0,0.59375,0
+5,claude-sonnet-4-5-20250929,rule_based,Number & Operations—Fractions,0,0.48000000000000004,0
+5,claude-sonnet-4-5-20250929,rule_based,Operations & Algebraic Thinking,0,0.3928571428571429,0
+5,claude-sonnet-4-5-20250929,rule_based,Number & Operations in Base Ten,1,0.0,0
+5,claude-sonnet-4-5-20250929,rule_based,Number & Operations—Fractions,0,0.36,0
+5,claude-sonnet-4-5-20250929,rule_based,Operations & Algebraic Thinking,0,-0.035714285714285685,0
+5,claude-sonnet-4-5-20250929,rule_based,Number & Operations in Base Ten,0,0.75,0
+5,claude-sonnet-4-5-20250929,rule_based,Number & Operations—Fractions,1,-0.039999999999999966,0
+5,claude-sonnet-4-5-20250929,rule_based,Operations & Algebraic Thinking,0,0.25000000000000006,0
+5,claude-sonnet-4-5-20250929,rule_based,Number & Operations in Base Ten,1,0.09375000000000003,0
+5,claude-sonnet-4-5-20250929,rule_based,Number & Operations—Fractions,1,0.12000000000000004,0
+5,claude-sonnet-4-5-20250929,rule_based,Operations & Algebraic Thinking,0,0.10714285714285718,0
+5,claude-sonnet-4-5-20250929,rule_based,Number & Operations in Base Ten,0,0.5,0
+5,claude-sonnet-4-5-20250929,rule_based,Number & Operations—Fractions,0,0.32,0
+5,claude-sonnet-4-5-20250929,rule_based,Operations & Algebraic Thinking,1,-0.10714285714285718,0
+5,claude-sonnet-4-5-20250929,rule_based,Number & Operations in Base Ten,1,0.0,0
+5,claude-sonnet-4-5-20250929,rule_based,Number & Operations—Fractions,0,0.32,0
+5,claude-sonnet-4-5-20250929,rule_based,Operations & Algebraic Thinking,1,-0.07142857142857137,0
+5,claude-sonnet-4-5-20250929,rule_based,Number & Operations in Base Ten,0,0.6562500000000001,0
+5,claude-sonnet-4-5-20250929,rule_based,Number & Operations—Fractions,1,-0.08000000000000007,0
+5,claude-sonnet-4-5-20250929,rule_based,Operations & Algebraic Thinking,1,0.14285714285714285,0
+5,claude-sonnet-4-5-20250929,few_shot,Number & Operations in Base Ten,0,0.21875000000000003,0
+5,claude-sonnet-4-5-20250929,few_shot,Number & Operations—Fractions,0,0.07999999999999993,0
+5,claude-sonnet-4-5-20250929,few_shot,Operations & Algebraic Thinking,0,0.0,0
+5,claude-sonnet-4-5-20250929,few_shot,Number & Operations in Base Ten,1,0.0,0
+5,claude-sonnet-4-5-20250929,few_shot,Number & Operations—Fractions,0,-0.08000000000000007,0
+5,claude-sonnet-4-5-20250929,few_shot,Operations & Algebraic Thinking,0,-0.07142857142857137,0
+5,claude-sonnet-4-5-20250929,few_shot,Number & Operations in Base Ten,0,0.0,0
+5,claude-sonnet-4-5-20250929,few_shot,Number & Operations—Fractions,1,-0.039999999999999966,0
+5,claude-sonnet-4-5-20250929,few_shot,Operations & Algebraic Thinking,0,-0.07142857142857137,0
+5,claude-sonnet-4-5-20250929,few_shot,Number & Operations in Base Ten,1,0.031249999999999972,0
+5,claude-sonnet-4-5-20250929,few_shot,Number & Operations—Fractions,1,-0.08000000000000007,0
+5,claude-sonnet-4-5-20250929,few_shot,Operations & Algebraic Thinking,0,-0.035714285714285685,0
+5,claude-sonnet-4-5-20250929,few_shot,Number & Operations in Base Ten,0,0.0,0
+5,claude-sonnet-4-5-20250929,few_shot,Number & Operations—Fractions,0,-0.12000000000000004,0
+5,claude-sonnet-4-5-20250929,few_shot,Operations & Algebraic Thinking,1,-0.10714285714285718,0
+5,claude-sonnet-4-5-20250929,few_shot,Number & Operations in Base Ten,1,0.0,0
+5,claude-sonnet-4-5-20250929,few_shot,Number & Operations—Fractions,0,-0.08000000000000007,0
+5,claude-sonnet-4-5-20250929,few_shot,Operations & Algebraic Thinking,1,-0.07142857142857137,0
+5,claude-sonnet-4-5-20250929,few_shot,Number & Operations in Base Ten,0,0.031249999999999972,0
+5,claude-sonnet-4-5-20250929,few_shot,Number & Operations—Fractions,1,-0.08000000000000007,0
+5,claude-sonnet-4-5-20250929,few_shot,Operations & Algebraic Thinking,1,-0.10714285714285718,0
+5,claude-sonnet-4-5-20250929,combined,Number & Operations in Base Ten,0,0.59375,0
+5,claude-sonnet-4-5-20250929,combined,Number & Operations—Fractions,0,0.48000000000000004,0
+5,claude-sonnet-4-5-20250929,combined,Operations & Algebraic Thinking,0,0.42857142857142855,0
+5,claude-sonnet-4-5-20250929,combined,Number & Operations in Base Ten,1,0.0,0
+5,claude-sonnet-4-5-20250929,combined,Number & Operations—Fractions,0,0.23999999999999994,0
+5,claude-sonnet-4-5-20250929,combined,Operations & Algebraic Thinking,0,-0.07142857142857137,0
+5,claude-sonnet-4-5-20250929,combined,Number & Operations in Base Ten,0,0.40624999999999994,0
+5,claude-sonnet-4-5-20250929,combined,Number & Operations—Fractions,1,-0.039999999999999966,0
+5,claude-sonnet-4-5-20250929,combined,Operations & Algebraic Thinking,0,0.0,0
+5,claude-sonnet-4-5-20250929,combined,Number & Operations in Base Ten,1,0.031249999999999972,0
+5,claude-sonnet-4-5-20250929,combined,Number & Operations—Fractions,1,-0.039999999999999966,0
+5,claude-sonnet-4-5-20250929,combined,Operations & Algebraic Thinking,0,-0.035714285714285685,0
+5,claude-sonnet-4-5-20250929,combined,Number & Operations in Base Ten,0,0.09375000000000003,0
+5,claude-sonnet-4-5-20250929,combined,Number & Operations—Fractions,0,0.12000000000000004,0
+5,claude-sonnet-4-5-20250929,combined,Operations & Algebraic Thinking,1,-0.07142857142857137,0
+5,claude-sonnet-4-5-20250929,combined,Number & Operations in Base Ten,1,0.031249999999999972,0
+5,claude-sonnet-4-5-20250929,combined,Number & Operations—Fractions,0,0.16,0
+5,claude-sonnet-4-5-20250929,combined,Operations & Algebraic Thinking,1,-0.07142857142857137,0
+5,claude-sonnet-4-5-20250929,combined,Number & Operations in Base Ten,0,0.375,0
+5,claude-sonnet-4-5-20250929,combined,Number & Operations—Fractions,1,-0.08000000000000007,0
+5,claude-sonnet-4-5-20250929,combined,Operations & Algebraic Thinking,1,0.0714285714285715,0

@@ -1,0 +1,71 @@
+=========== DATASET: mathcamps_grade_7_99_updated.xlsx ===========
+
+
+--- MODEL: DeepSeek ---
+Running 5 runs in parallel...
+Accuracies: [88, 87, 86, 87, 86]
+Mean=86.8, Std=0.7
+Hard Questions: [6, 9, 17, 38, 44, 50, 51, 67, 78, 83]
+
+--- MODEL: Claude ---
+⚠ Claude must run sequentially due to 30k tokens/min limit
+Run 1/5
+Run 2/5
+Run 3/5
+Run 4/5
+Run 5/5
+Accuracies: [88, 88, 88, 86, 0]
+Mean=70.0, Std=35.0
+Hard Questions: [6, 9, 26, 44, 50, 51, 62, 67, 78, 83, 89]
+
+*** Combined Hard Questions ***
+[6, 9, 17, 26, 38, 44, 50, 51, 62, 67, 78, 83, 89]
+
+=========== DATASET: mathcamps_grade_8_99_updated.xlsx ===========
+
+
+--- MODEL: DeepSeek ---
+Running 5 runs in parallel...
+Accuracies: [99, 99, 99, 98, 99]
+Mean=98.8, Std=0.4
+Hard Questions: []
+
+--- MODEL: Claude ---
+⚠ Claude must run sequentially due to 30k tokens/min limit
+Run 1/5
+Run 2/5
+Run 3/5
+Run 4/5
+Run 5/5
+Accuracies: [99, 99, 99, 99, 99]
+Mean=99.0, Std=0.0
+Hard Questions: []
+
+*** Combined Hard Questions ***
+[]
+{'mathcamps_grade_7_99_updated.xlsx': {'DeepSeek': {'accuracies': [88,
+    87,
+    86,
+    87,
+    86],
+   'mean': 86.8,
+   'std': 0.7483314773547882,
+   'hard_questions': [6, 9, 17, 38, 44, 50, 51, 67, 78, 83]},
+  'Claude': {'accuracies': [88, 88, 88, 86, 0],
+   'mean': 70.0,
+   'std': 35.008570379265706,
+   'hard_questions': [6, 9, 26, 44, 50, 51, 62, 67, 78, 83, 89]},
+  'combined_hard': [6, 9, 17, 26, 38, 44, 50, 51, 62, 67, 78, 83, 89]},
+ 'mathcamps_grade_8_99_updated.xlsx': {'DeepSeek': {'accuracies': [99,
+    99,
+    99,
+    98,
+    99],
+   'mean': 98.8,
+   'std': 0.4,
+   'hard_questions': []},
+  'Claude': {'accuracies': [99, 99, 99, 99, 99],
+   'mean': 99.0,
+   'std': 0.0,
+   'hard_questions': []},
+  'combined_hard': []}}

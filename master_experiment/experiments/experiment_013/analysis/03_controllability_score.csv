@@ -1,0 +1,4 @@
+grade,model,prompt,controllability_score
+4,deepseek-chat,combined,0.17429993001487185
+4,deepseek-chat,few_shot,-0.0010939152702777936
+4,deepseek-chat,rule_based,0.0977008294828258

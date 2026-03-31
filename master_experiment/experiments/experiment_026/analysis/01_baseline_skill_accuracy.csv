@@ -1,0 +1,22 @@
+grade,model,prompt,skill,accuracy
+4,claude-sonnet-4-5-20250929,explicit_decision,Measurement & Data,0.8846153846153846
+4,claude-sonnet-4-5-20250929,explicit_decision,Number & Operations in Base Ten,0.92
+4,claude-sonnet-4-5-20250929,explicit_decision,Number & Operations—Fractions,1.0
+4,claude-sonnet-4-5-20250929,explicit_decision,Operations & Algebraic Thinking,0.7916666666666666
+4,deepseek-chat,explicit_decision,Measurement & Data,0.6153846153846154
+4,deepseek-chat,explicit_decision,Number & Operations in Base Ten,0.24
+4,deepseek-chat,explicit_decision,Number & Operations—Fractions,0.4166666666666667
+4,deepseek-chat,explicit_decision,Operations & Algebraic Thinking,0.625
+4,gpt-4o,explicit_decision,Measurement & Data,0.6923076923076923
+4,gpt-4o,explicit_decision,Number & Operations in Base Ten,0.56
+4,gpt-4o,explicit_decision,Number & Operations—Fractions,0.75
+4,gpt-4o,explicit_decision,Operations & Algebraic Thinking,0.625
+5,claude-sonnet-4-5-20250929,explicit_decision,Number & Operations in Base Ten,0.9393939393939394
+5,claude-sonnet-4-5-20250929,explicit_decision,Number & Operations—Fractions,0.7575757575757576
+5,claude-sonnet-4-5-20250929,explicit_decision,Operations & Algebraic Thinking,0.8787878787878788
+5,deepseek-chat,explicit_decision,Number & Operations in Base Ten,0.24242424242424243
+5,deepseek-chat,explicit_decision,Number & Operations—Fractions,0.09090909090909091
+5,deepseek-chat,explicit_decision,Operations & Algebraic Thinking,0.48484848484848486
+5,gpt-4o,explicit_decision,Number & Operations in Base Ten,0.696969696969697
+5,gpt-4o,explicit_decision,Number & Operations—Fractions,0.3333333333333333
+5,gpt-4o,explicit_decision,Operations & Algebraic Thinking,0.5757575757575758

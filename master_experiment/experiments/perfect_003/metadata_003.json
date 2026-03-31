@@ -1,0 +1,41 @@
+{
+  "experiment_id": "perfect_003",
+  "experiment_num": 3,
+  "mode": "perfect_students_only",
+  "started_at": "2026-03-16T20:02:36",
+  "completed_at": "2026-03-16T20:10:25",
+  "models": [
+    "deepseek-chat"
+  ],
+  "prompts": [
+    "explicit_decision"
+  ],
+  "grades": [
+    4,
+    5
+  ],
+  "grades_detail": {
+    "4": {
+      "n_questions": 99,
+      "skills": [
+        "Measurement & Data",
+        "Number & Operations in Base Ten",
+        "Number & Operations—Fractions",
+        "Operations & Algebraic Thinking"
+      ],
+      "n_skills": 4,
+      "n_students": 1
+    },
+    "5": {
+      "n_questions": 99,
+      "skills": [
+        "Number & Operations in Base Ten",
+        "Number & Operations—Fractions",
+        "Operations & Algebraic Thinking"
+      ],
+      "n_skills": 3,
+      "n_students": 1
+    }
+  },
+  "total_runs_completed": 2
+}

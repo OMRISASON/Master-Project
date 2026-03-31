@@ -1,0 +1,10 @@
+model,skill,r_std
+claude-sonnet-4-5-20250929,Number & Operations in Base Ten,0.025388769248944516
+claude-sonnet-4-5-20250929,Number & Operations—Fractions,0.030618621784789732
+claude-sonnet-4-5-20250929,Operations & Algebraic Thinking,0.042866070498705604
+deepseek-chat,Number & Operations in Base Ten,0.02764899955442603
+deepseek-chat,Number & Operations—Fractions,0.01194349952367252
+deepseek-chat,Operations & Algebraic Thinking,0.0
+gpt-4o,Number & Operations in Base Ten,0.023407028321060237
+gpt-4o,Number & Operations—Fractions,0.05654648111913485
+gpt-4o,Operations & Algebraic Thinking,0.030007386401337776

@@ -1,0 +1,37 @@
+model,prompt,skill,r
+claude-sonnet-4-5-20250929,combined,Measurement & Data,0.5370370370370371
+claude-sonnet-4-5-20250929,combined,Number & Operations in Base Ten,0.6666666666666666
+claude-sonnet-4-5-20250929,combined,Number & Operations—Fractions,0.9166666666666666
+claude-sonnet-4-5-20250929,combined,Operations & Algebraic Thinking,0.6388888888888888
+claude-sonnet-4-5-20250929,few_shot,Measurement & Data,0.3007246376811594
+claude-sonnet-4-5-20250929,few_shot,Number & Operations in Base Ten,0.01851851851851847
+claude-sonnet-4-5-20250929,few_shot,Number & Operations—Fractions,0.23232323232323232
+claude-sonnet-4-5-20250929,few_shot,Operations & Algebraic Thinking,0.5029239766081871
+claude-sonnet-4-5-20250929,rule_based,Measurement & Data,0.861111111111111
+claude-sonnet-4-5-20250929,rule_based,Number & Operations in Base Ten,0.8715277777777778
+claude-sonnet-4-5-20250929,rule_based,Number & Operations—Fractions,0.9395424836601308
+claude-sonnet-4-5-20250929,rule_based,Operations & Algebraic Thinking,0.8055555555555556
+deepseek-chat,combined,Measurement & Data,0.43444444444444447
+deepseek-chat,combined,Number & Operations in Base Ten,0.4528985507246377
+deepseek-chat,combined,Number & Operations—Fractions,0.3611111111111111
+deepseek-chat,combined,Operations & Algebraic Thinking,0.22361111111111112
+deepseek-chat,few_shot,Measurement & Data,0.0011111111111111105
+deepseek-chat,few_shot,Number & Operations in Base Ten,-0.03661616161616163
+deepseek-chat,few_shot,Number & Operations—Fractions,0.02898550724637686
+deepseek-chat,few_shot,Operations & Algebraic Thinking,0.07010582010582007
+deepseek-chat,rule_based,Measurement & Data,0.19212962962962965
+deepseek-chat,rule_based,Number & Operations in Base Ten,0.12922705314009664
+deepseek-chat,rule_based,Number & Operations—Fractions,0.017676767676767634
+deepseek-chat,rule_based,Operations & Algebraic Thinking,0.6022727272727273
+gpt-4o,combined,Measurement & Data,0.7238562091503268
+gpt-4o,combined,Number & Operations in Base Ten,0.6370370370370371
+gpt-4o,combined,Number & Operations—Fractions,0.6680555555555556
+gpt-4o,combined,Operations & Algebraic Thinking,0.75
+gpt-4o,few_shot,Measurement & Data,0.1425925925925925
+gpt-4o,few_shot,Number & Operations in Base Ten,0.22863247863247865
+gpt-4o,few_shot,Number & Operations—Fractions,0.013888888888888916
+gpt-4o,few_shot,Operations & Algebraic Thinking,0.20486111111111105
+gpt-4o,rule_based,Measurement & Data,0.7685185185185186
+gpt-4o,rule_based,Number & Operations in Base Ten,0.6686507936507937
+gpt-4o,rule_based,Number & Operations—Fractions,0.5185185185185186
+gpt-4o,rule_based,Operations & Algebraic Thinking,0.9333333333333333

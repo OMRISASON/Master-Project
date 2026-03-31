@@ -1,0 +1,13 @@
+model,prompt,skill,r_std
+claude-sonnet-4-5-20250929,explicit_decision,Measurement & Data,0.0
+claude-sonnet-4-5-20250929,explicit_decision,Number & Operations in Base Ten,0.0
+claude-sonnet-4-5-20250929,explicit_decision,Number & Operations—Fractions,0.0
+claude-sonnet-4-5-20250929,explicit_decision,Operations & Algebraic Thinking,0.0
+deepseek-chat,explicit_decision,Measurement & Data,0.0
+deepseek-chat,explicit_decision,Number & Operations in Base Ten,0.0
+deepseek-chat,explicit_decision,Number & Operations—Fractions,0.0
+deepseek-chat,explicit_decision,Operations & Algebraic Thinking,0.0
+gpt-4o,explicit_decision,Measurement & Data,0.0
+gpt-4o,explicit_decision,Number & Operations in Base Ten,0.0
+gpt-4o,explicit_decision,Number & Operations—Fractions,0.0
+gpt-4o,explicit_decision,Operations & Algebraic Thinking,0.0

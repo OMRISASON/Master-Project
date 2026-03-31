@@ -1,0 +1,59 @@
+{
+  "experiment_id": "experiment_025",
+  "experiment_num": 25,
+  "started_at": "2026-03-16T11:49:49",
+  "completed_at": null,
+  "status": "running",
+  "models": [
+    "claude-sonnet-4-5-20250929",
+    "gpt-4o",
+    "gpt-4o-mini"
+  ],
+  "prompts": [
+    "explicit_decision"
+  ],
+  "prompt_templates": {
+    "explicit_decision": "_unified_"
+  },
+  "grades": [
+    4,
+    5
+  ],
+  "temperatures": [
+    0.0
+  ],
+  "n_runs_edge": 1,
+  "n_runs_other": 1,
+  "total_runs_planned": 72,
+  "total_runs_completed": 0,
+  "grades_detail": {
+    "4": {
+      "n_questions": 99,
+      "skills": [
+        "Measurement & Data",
+        "Number & Operations in Base Ten",
+        "Number & Operations—Fractions",
+        "Operations & Algebraic Thinking"
+      ],
+      "n_skills": 4,
+      "n_students": 16
+    },
+    "5": {
+      "n_questions": 99,
+      "skills": [
+        "Number & Operations in Base Ten",
+        "Number & Operations—Fractions",
+        "Operations & Algebraic Thinking"
+      ],
+      "n_skills": 3,
+      "n_students": 8
+    }
+  },
+  "excel_path": "C:\\Users\\Omri Sason\\Desktop\\School\\Project\\master_experiment\\experiments\\experiment_025\\results_025.xlsx",
+  "config": {
+    "max_tokens": 16,
+    "max_retries": 3,
+    "timeout_s": 60,
+    "random_seed": 42
+  }
+}

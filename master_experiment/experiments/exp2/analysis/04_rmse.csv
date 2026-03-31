@@ -1,0 +1,7 @@
+grade,model,prompt,rmse
+4,claude-sonnet-4-5-20250929,explicit_decision,0.07800723694841774
+4,deepseek-chat,explicit_decision,0.19300882518786527
+4,gpt-4o,explicit_decision,0.27541291165915904
+5,claude-sonnet-4-5-20250929,explicit_decision,0.12087060930876424
+5,deepseek-chat,explicit_decision,0.2756277938765729
+5,gpt-4o,explicit_decision,0.34825070926100893

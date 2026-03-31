@@ -1,0 +1,7 @@
+grade,model,prompt,controllability_score
+4,claude-sonnet-4-5-20250929,combined,0.193531746031746
+4,claude-sonnet-4-5-20250929,few_shot,-0.03544799498746869
+4,claude-sonnet-4-5-20250929,rule_based,0.2540873015873016
+5,claude-sonnet-4-5-20250929,combined,0.11206632653061224
+5,claude-sonnet-4-5-20250929,few_shot,-0.030739795918367358
+5,claude-sonnet-4-5-20250929,rule_based,0.19233843537414969

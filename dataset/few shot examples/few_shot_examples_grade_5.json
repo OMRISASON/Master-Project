@@ -1,0 +1,41 @@
+{
+  "Number & Operations in Base Ten": [
+    {
+      "id": "ext_num_01",
+      "grade": 5,
+      "statement": "In the number 253, what is the value of the digit 5 in the tens place?",
+      "answer_A": "5",
+      "answer_B": "500",
+      "answer_C": "5",
+      "answer_D": "50",
+      "correct_option": "D",
+      "wrong_option": "A"
+    }
+  ],
+  "Number & Operations—Fractions": [
+    {
+      "id": "ext_num_01",
+      "grade": 5,
+      "statement": "Which fraction is equivalent to 5/12?",
+      "answer_A": "20/48",
+      "answer_B": "5/48",
+      "answer_C": "20/12",
+      "answer_D": "48/20",
+      "correct_option": "A",
+      "wrong_option": "B"
+    }
+  ],
+  "Operations & Algebraic Thinking": [
+    {
+      "id": "ext_ope_01",
+      "grade": 5,
+      "statement": "What is 8 × 12?",
+      "answer_A": "20",
+      "answer_B": "104",
+      "answer_C": "96",
+      "answer_D": "84",
+      "correct_option": "C",
+      "wrong_option": "A"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "experiment_id": "experiment_026",
+  "experiment_num": 26,
+  "started_at": "2026-03-16T14:33:08",
+  "completed_at": "2026-03-16T16:40:22",
+  "status": "completed",
+  "models": [
+    "claude-sonnet-4-5-20250929",
+    "gpt-4o",
+    "deepseek-chat"
+  ],
+  "prompts": [
+    "explicit_decision"
+  ],
+  "prompt_templates": {
+    "explicit_decision": "_unified_"
+  },
+  "grades": [
+    4,
+    5
+  ],
+  "temperatures": [
+    0.0
+  ],
+  "n_runs_edge": 1,
+  "n_runs_other": 1,
+  "total_runs_planned": 72,
+  "total_runs_completed": 72,
+  "grades_detail": {
+    "4": {
+      "n_questions": 99,
+      "skills": [
+        "Measurement & Data",
+        "Number & Operations in Base Ten",
+        "Number & Operations—Fractions",
+        "Operations & Algebraic Thinking"
+      ],
+      "n_skills": 4,
+      "n_students": 16
+    },
+    "5": {
+      "n_questions": 99,
+      "skills": [
+        "Number & Operations in Base Ten",
+        "Number & Operations—Fractions",
+        "Operations & Algebraic Thinking"
+      ],
+      "n_skills": 3,
+      "n_students": 8
+    }
+  },
+  "excel_path": "C:\\Users\\Omri Sason\\Desktop\\School\\Project\\master_experiment\\experiments\\experiment_026\\results_026.xlsx",
+  "config": {
+    "max_tokens": 16,
+    "max_retries": 3,
+    "timeout_s": 60,
+    "random_seed": 42
+  },
+  "total_elapsed_seconds": 7633.2
+}

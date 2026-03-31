@@ -1,0 +1,7 @@
+grade,model,prompt,mean_acc,std_acc
+4,claude-sonnet-4-5-20250929,explicit_decision,0.47474747474747475,0.0
+4,deepseek-chat,explicit_decision,0.40845959595959597,0.0
+4,gpt-4o,explicit_decision,0.4217171717171717,0.0
+5,claude-sonnet-4-5-20250929,explicit_decision,0.4873737373737374,0.0
+5,deepseek-chat,explicit_decision,0.3661616161616162,0.0
+5,gpt-4o,explicit_decision,0.38636363636363635,0.0

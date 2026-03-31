@@ -1,0 +1,13 @@
+grade,model,prompt,group,mean_r
+4,claude-sonnet-4-5-20250929,explicit_decision,Forgotten (k=0),0.9191218535469108
+4,claude-sonnet-4-5-20250929,explicit_decision,Retained (k=1),0.020714149504195263
+4,deepseek-chat,explicit_decision,Forgotten (k=0),0.5367187499999999
+4,deepseek-chat,explicit_decision,Retained (k=1),-0.5476190476190477
+4,gpt-4o,explicit_decision,Forgotten (k=0),0.6525297619047619
+4,gpt-4o,explicit_decision,Retained (k=1),0.07386621315192743
+5,claude-sonnet-4-5-20250929,explicit_decision,Forgotten (k=0),0.8501557285873194
+5,claude-sonnet-4-5-20250929,explicit_decision,Retained (k=1),0.020996168582375463
+5,deepseek-chat,explicit_decision,Forgotten (k=0),-0.3211805555555555
+5,deepseek-chat,explicit_decision,Retained (k=1),-1.4212962962962965
+5,gpt-4o,explicit_decision,Forgotten (k=0),0.5027043894320782
+5,gpt-4o,explicit_decision,Retained (k=1),-0.05649169035896722

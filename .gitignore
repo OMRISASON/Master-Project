@@ -1,0 +1,47 @@
+# Only these top-level paths are tracked; everything else stays local
+/*
+!.gitignore
+!/dataset/
+!/dataset/**
+!/master_experiment/
+!/master_experiment/**
+
+# GitHub blocks files > 100 MB (and warns > 50 MB). Keep these locally or use Git LFS / cloud storage.
+dataset/data/metadata/answer_metadata_task_1_2.csv
+dataset/data/metadata/answer_metadata_task_3_4.csv
+dataset/data/train_data/train_task_1_2.csv
+
+# macOS zip debris
+dataset/__MACOSX/
+
+# Secrets and environment
+KEY.txt
+.env
+**/.env
+.env.local
+!.env.example
+
+# Local credential dumps
+/API/
+/AWS/
+
+# Private keys
+*.pem
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+.venv/
+venv/
+env/
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Office lock files
+~$*

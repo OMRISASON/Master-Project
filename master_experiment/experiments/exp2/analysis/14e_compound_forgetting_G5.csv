@@ -1,0 +1,28 @@
+model,prompt,skill,n_missing,acc_S
+claude-sonnet-4-5-20250929,explicit_decision,Number & Operations in Base Ten,1,0.12121212121212122
+claude-sonnet-4-5-20250929,explicit_decision,Number & Operations in Base Ten,2,0.07575757575757576
+claude-sonnet-4-5-20250929,explicit_decision,Number & Operations in Base Ten,3,0.09090909090909091
+claude-sonnet-4-5-20250929,explicit_decision,Number & Operations—Fractions,1,0.15151515151515152
+claude-sonnet-4-5-20250929,explicit_decision,Number & Operations—Fractions,2,0.07575757575757576
+claude-sonnet-4-5-20250929,explicit_decision,Number & Operations—Fractions,3,0.06060606060606061
+claude-sonnet-4-5-20250929,explicit_decision,Operations & Algebraic Thinking,1,0.18181818181818182
+claude-sonnet-4-5-20250929,explicit_decision,Operations & Algebraic Thinking,2,0.2272727272727273
+claude-sonnet-4-5-20250929,explicit_decision,Operations & Algebraic Thinking,3,0.18181818181818182
+deepseek-chat,explicit_decision,Number & Operations in Base Ten,1,0.36363636363636365
+deepseek-chat,explicit_decision,Number & Operations in Base Ten,2,0.3787878787878788
+deepseek-chat,explicit_decision,Number & Operations in Base Ten,3,0.24242424242424243
+deepseek-chat,explicit_decision,Number & Operations—Fractions,1,0.24242424242424243
+deepseek-chat,explicit_decision,Number & Operations—Fractions,2,0.3787878787878788
+deepseek-chat,explicit_decision,Number & Operations—Fractions,3,0.24242424242424243
+deepseek-chat,explicit_decision,Operations & Algebraic Thinking,1,0.3333333333333333
+deepseek-chat,explicit_decision,Operations & Algebraic Thinking,2,0.3484848484848485
+deepseek-chat,explicit_decision,Operations & Algebraic Thinking,3,0.24242424242424243
+gpt-4o,explicit_decision,Number & Operations in Base Ten,1,0.12121212121212122
+gpt-4o,explicit_decision,Number & Operations in Base Ten,2,0.09090909090909091
+gpt-4o,explicit_decision,Number & Operations in Base Ten,3,0.12121212121212122
+gpt-4o,explicit_decision,Number & Operations—Fractions,1,0.30303030303030304
+gpt-4o,explicit_decision,Number & Operations—Fractions,2,0.303030303030303
+gpt-4o,explicit_decision,Number & Operations—Fractions,3,0.3333333333333333
+gpt-4o,explicit_decision,Operations & Algebraic Thinking,1,0.21212121212121213
+gpt-4o,explicit_decision,Operations & Algebraic Thinking,2,0.2272727272727273
+gpt-4o,explicit_decision,Operations & Algebraic Thinking,3,0.2727272727272727

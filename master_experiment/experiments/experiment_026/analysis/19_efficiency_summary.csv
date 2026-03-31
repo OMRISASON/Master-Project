@@ -1,0 +1,7 @@
+grade,model,prompt,mean_efficiency,pct_overshoot,mean_offTarget_eff,n_skills
+4,claude-sonnet-4-5-20250929,explicit_decision,1.2746679626343804,100.0,,32
+4,deepseek-chat,explicit_decision,1.4925073099415205,95.83333333333334,,24
+4,gpt-4o,explicit_decision,1.0737555029608852,59.375,,32
+5,claude-sonnet-4-5-20250929,explicit_decision,1.205497074405544,100.0,,12
+5,deepseek-chat,explicit_decision,1.064516129032258,75.0,,4
+5,gpt-4o,explicit_decision,0.8804242663131113,58.333333333333336,,12

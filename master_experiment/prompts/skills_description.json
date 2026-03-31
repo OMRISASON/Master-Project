@@ -1,0 +1,41 @@
+{
+  "4": {
+    "Number & Operations in Base Ten": {
+      "short": "NBT",
+      "source": "Common Core State Standards",
+      "description": "Understand place value relationships in the base-ten system and perform operations with multi-digit whole numbers."
+    },
+    "Number & Operations—Fractions": {
+      "short": "NF",
+      "source": "Common Core State Standards",
+      "description": "Extend understanding of fractions as numbers, including fraction equivalence, comparison, and simple operations with fractions."
+    },
+    "Operations & Algebraic Thinking": {
+      "short": "OA",
+      "source": "Common Core State Standards",
+      "description": "Use the four operations to solve problems and analyze arithmetic patterns and relationships."
+    },
+    "Measurement & Data": {
+      "short": "MD",
+      "source": "Common Core State Standards",
+      "description": "Solve problems involving measurement and represent and interpret data, including concepts such as area, angles, and line plots."
+    }
+  },
+  "5": {
+    "Number & Operations in Base Ten": {
+      "short": "NBT",
+      "source": "Common Core State Standards",
+      "description": "Understand the base-ten number system and perform operations with multi-digit numbers and decimals."
+    },
+    "Number & Operations—Fractions": {
+      "short": "NF",
+      "source": "Common Core State Standards",
+      "description": "Understand fractions as numbers and perform operations with fractions, including addition and subtraction with unlike denominators."
+    },
+    "Operations & Algebraic Thinking": {
+      "short": "OA",
+      "source": "Common Core State Standards",
+      "description": "Analyze arithmetic expressions and numerical patterns and reason about relationships between quantities."
+    }
+  }
+}

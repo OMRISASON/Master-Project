@@ -1,0 +1,10 @@
+grade,model,prompt,student_id,skill,k,observed_acc
+5,claude-sonnet-4-5-20250929,explicit_decision,3,Number & Operations in Base Ten,1,0.9393939393939394
+5,claude-sonnet-4-5-20250929,explicit_decision,3,Number & Operations—Fractions,1,0.7575757575757576
+5,claude-sonnet-4-5-20250929,explicit_decision,3,Operations & Algebraic Thinking,0,0.18181818181818182
+5,claude-sonnet-4-5-20250929,explicit_decision,5,Number & Operations in Base Ten,1,0.9393939393939394
+5,claude-sonnet-4-5-20250929,explicit_decision,5,Number & Operations—Fractions,0,0.15151515151515152
+5,claude-sonnet-4-5-20250929,explicit_decision,5,Operations & Algebraic Thinking,1,0.8484848484848485
+5,claude-sonnet-4-5-20250929,explicit_decision,6,Number & Operations in Base Ten,0,0.12121212121212122
+5,claude-sonnet-4-5-20250929,explicit_decision,6,Number & Operations—Fractions,1,0.696969696969697
+5,claude-sonnet-4-5-20250929,explicit_decision,6,Operations & Algebraic Thinking,1,0.8484848484848485

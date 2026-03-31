@@ -1,0 +1,7 @@
+grade,model,prompt,rmse
+4,claude-sonnet-4-5-20250929,combined,0.48115016317550324
+4,claude-sonnet-4-5-20250929,few_shot,0.7368904987884114
+4,claude-sonnet-4-5-20250929,rule_based,0.38337594808254677
+5,claude-sonnet-4-5-20250929,combined,0.5880820093224586
+5,claude-sonnet-4-5-20250929,few_shot,0.7554784494038007
+5,claude-sonnet-4-5-20250929,rule_based,0.4723408982832718

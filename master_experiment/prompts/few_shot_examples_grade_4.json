@@ -1,0 +1,54 @@
+{
+  "Number & Operations in Base Ten": [
+    {
+      "id": "ext_nbt_01",
+      "grade": 4,
+      "statement": "A school library has 2,348 fiction books and 1,975 nonfiction books. How many books does the library have altogether?",
+      "answer_A": "4,223",
+      "answer_B": "4,313",
+      "answer_C": "3,323",
+      "answer_D": "4,213",
+      "correct_option": "A",
+      "wrong_option": "D"
+    }
+  ],
+  "Number & Operations—Fractions": [
+    {
+      "id": "ext_nf_01",
+      "grade": 4,
+      "statement": "Which fraction is greater than 3/4?",
+      "answer_A": "2/3",
+      "answer_B": "3/5",
+      "answer_C": "5/6",
+      "answer_D": "6/8",
+      "correct_option": "C",
+      "wrong_option": "D"
+    }
+  ],
+  "Operations & Algebraic Thinking": [
+    {
+      "id": "ext_oa_01",
+      "grade": 4,
+      "statement": "A farmer packs 6 boxes with 8 oranges in each box. Then he gives away 9 oranges. How many oranges does he have left?",
+      "answer_A": "39",
+      "answer_B": "48",
+      "answer_C": "57",
+      "answer_D": "45",
+      "correct_option": "A",
+      "wrong_option": "D"
+    }
+  ],
+  "Measurement & Data": [
+    {
+      "id": "ext_md_01",
+      "grade": 4,
+      "statement": "A rectangle has a length of 12 cm and a width of 5 cm. What is its perimeter?",
+      "answer_A": "17 cm",
+      "answer_B": "34 cm",
+      "answer_C": "60 cm",
+      "answer_D": "24 cm",
+      "correct_option": "B",
+      "wrong_option": "D"
+    }
+  ]
+}
